@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatalrhym
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning full stack, AWS, DevOps, Data Science
+- 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 reach me fyar87@gmail.com
 
