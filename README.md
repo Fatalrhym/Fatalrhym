@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Fatalrhym
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me fyar87@gmail.com
 
 <!---
