@@ -1,3 +1,6 @@
+<h3 align="center">Hey there, I'm Fatih<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<a href="#"><img width="100%" height="auto" src="https://scikey-wowprod-mumbaisouth.s3.amazonaws.com/upload/photos/2021/04/oqkv1XF4OK4xrXcozAC5_17_3bc5a0ace75ab4a92457b8d52f5e0245_image.png" height="175px"/></a>
+  
 - 👋 Hi, I’m @Fatalrhym
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning AWS and DevOps
