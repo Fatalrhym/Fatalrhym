@@ -16,7 +16,7 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetfatihyar/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:fyar87@gmail.com)
-[![website](https://img.shields.io/badge/freecodecamp-%230077B5.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fatal)
+[![website](https://img.shields.io/badge/freecodecamp-2EC866?&style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fatal)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/fyar87)
 
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@emrhntzl)  
