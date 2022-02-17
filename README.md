@@ -3,7 +3,7 @@
   
 <a href="#"><img width="50%" height="auto" src="https://assets3.botmetric.com/wp-content/uploads/2017/04/devops-for-aws-cloud-management-v2.png" height="75px"/></a>
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6paYxtxufTq_Ea50K2sj0LRxsawx_d4xdAA&usqp=CAU" width="4%"> About Me <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6paYxtxufTq_Ea50K2sj0LRxsawx_d4xdAA&usqp=CAU" width="4%">
+## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
 - 👋 Hi, I’m @Fatalrhym
 - 👀 I’m interested in IT
