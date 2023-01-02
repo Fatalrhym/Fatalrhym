@@ -6,9 +6,7 @@
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="1%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="1%">
   
 - 👋 Hi, I’m @Fatalrhym
-- 👀 I’m interested in IT
 - 🌱 I’m an AWS Cloud Architect and DevOps Engineer
-- 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me fyar87@gmail.com <br>
 
   
